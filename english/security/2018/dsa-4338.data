@@ -1,0 +1,13 @@
+<define-tag pagetitle>DSA-4338-1 qemu</define-tag>
+<define-tag report_date>2018-11-11</define-tag>
+<define-tag secrefs>CVE-2018-10839 CVE-2018-17962 CVE-2018-17963 Bug#908682 Bug#910431 Bug#911468 Bug#911469</define-tag>
+<define-tag packages>qemu</define-tag>
+<define-tag isvulnerable>yes</define-tag>
+<define-tag fixed>yes</define-tag>
+<define-tag fixed-section>no</define-tag>
+
+#use wml::debian::security
+
+
+
+</dl>
