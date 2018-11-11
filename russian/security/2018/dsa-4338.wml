@@ -1,0 +1,23 @@
+#use wml::debian::translation-check translation="83934a2f26614ea9763cb52ff41f5677e8a56eac" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Переполнения целых чисел в коде обработки пакетов сетевыми картами, эмулируемыми
+QEMU, быстрым эмулятором процессора, могут приводить к отказу в обслуживании.</p>
+
+<p>Кроме того, данное обновление добавляет поддержку проброса новых возможностей
+ЦП, добавленных в обновлении пакета intel-microcode, представленном в DSA 4273,
+гостевым системам на основе архитектуры x86.</p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 1:2.8+dfsg-6+deb9u5.</p>
+
+<p>Рекомендуется обновить пакеты qemu.</p>
+
+<p>С подробным статусом поддержки безопасности qemu можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/qemu">\
+https://security-tracker.debian.org/tracker/qemu</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4338.data"
