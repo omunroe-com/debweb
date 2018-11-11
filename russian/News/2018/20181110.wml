@@ -269,18 +269,18 @@
 <correction custom-tab-width "Несовместим с новыми версиями firefox-esr">
 <correction dactyl "Несовместим с новыми версиями firefox-esr">
 <correction downthemall "Несовместим с новыми версиями firefox-esr">
-<correction dvips-fontdata-n2bk "Empty package">
+<correction dvips-fontdata-n2bk "Пустой пакет">
 <correction firebug "Несовместим с новыми версиями firefox-esr">
 <correction firegestures "Несовместим с новыми версиями firefox-esr">
 <correction firexpath "Несовместим с новыми версиями firefox-esr">
 <correction flashgot "Несовместим с новыми версиями firefox-esr">
 <correction form-history-control "Несовместим с новыми версиями firefox-esr">
 <correction foxyproxy "Несовместим с новыми версиями firefox-esr">
-<correction gitlab "Open security issues, hard to backport fixes">
+<correction gitlab "Открытые проблемы безопасности, трудно переносить исправления">
 <correction greasemonkey "Несовместим с новыми версиями firefox-esr">
-<correction intel-processor-trace "[s390x] Only useful on Intel architectures">
+<correction intel-processor-trace "[s390x] нужен только на архитектурах Intel">
 <correction itsalltext "Несовместим с новыми версиями firefox-esr">
-<correction knot-resolver "Security issues">
+<correction knot-resolver "Проблемы безопасности">
 <correction lightbeam "Несовместим с новыми версиями firefox-esr">
 <correction livehttpheaders "Несовместим с новыми версиями firefox-esr">
 <correction lyz "Несовместим с новыми версиями firefox-esr">
@@ -289,8 +289,8 @@
 <correction openinbrowser "Несовместим с новыми версиями firefox-esr">
 <correction perspectives-extension "Несовместим с новыми версиями firefox-esr">
 <correction pwdhash "Несовместим с новыми версиями firefox-esr">
-<correction python-facebook "Broken due to upstream changes">
-<correction python-tvrage "Useless after tvrage.com shutdown">
+<correction python-facebook "Сломан из-за изменений в основной ветке разработки">
+<correction python-tvrage "Бесполезен после отключения tvrage.com">
 <correction reloadevery "Несовместим с новыми версиями firefox-esr">
 <correction sage-extension "Несовместим с новыми версиями firefox-esr">
 <correction scrapbook "Несовместим с новыми версиями firefox-esr">
